@@ -39,7 +39,7 @@ Hardware: Ricoh Theta S
         ffmpeg -i INPUT.mp4 -c:v libtheora -c:a libvorbis -q:v 6 -q:a 5 OUTPUT.ogg
 
 - Unity built-in MovieTexture does not support mobile platforms (iOS, Android).
-- [AVPro Video](http://renderheads.com/product/avpro-video/) plugin ($450) provides good support for mobile and high resolution videos.
+- [Easy Movie Texture ](https://www.assetstore.unity3d.com/en/#!/content/10032) ($65) and [AVPro Video](http://renderheads.com/product/avpro-video/) plugin ($450) provides good support for mobile and high resolution videos.
 
 ## 360 Video Source
 
